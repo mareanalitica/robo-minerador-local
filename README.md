@@ -1,6 +1,6 @@
-<p align="center"><img src="https://i.imgur.com/a9QWW0v.png"></p>
-
 ## Usage
+
+Faça as alterações necessárias para seu fluxo e execute um build para gerar seu executável.
 
 ### Create an App
 
